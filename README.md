@@ -1,2 +1,2 @@
 # Project1-US-BikeShare
-udacity professional data analysis first project
+Udacity Professional Data Analysis first project
